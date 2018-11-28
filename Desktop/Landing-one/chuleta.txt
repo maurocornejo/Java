@@ -1,0 +1,12 @@
+    <!-- Chuleta de colores (en Hexadecimal): 
+      azul oscuro: #4A90E2 y azul claro: #92BFF3 -->
+
+    <!-- 1 fila, 12 columnas de longitud 1 -->
+
+    <!-- 1 fila, 2 columnas de longitud 6 -->
+
+    <!-- 1 fila, 3 columnas (2 de longitud 3 y 1 de 6) -->
+
+    <!-- 1 fila, 1 columna de longitud 12 -->
+
+    <!-- Ejemplo complejo, 1+3+2+4+2 -->
